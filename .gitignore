@@ -2,6 +2,6 @@
 node_modules
 .svelte
 .svelte-kit
-build
+# build
 functions
 .env
